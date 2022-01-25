@@ -1,0 +1,13 @@
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/WarCardGame
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/WarCardGame.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/WarCardGame.deps.json
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/WarCardGame.runtimeconfig.json
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/WarCardGame.pdb
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.Http.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.Logging.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.Options.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Microsoft.Extensions.Primitives.dll
+/Users/mrodas/Projects/WarCardGame/WarCardGame/bin/Release/net6.0/publish/Newtonsoft.Json.dll

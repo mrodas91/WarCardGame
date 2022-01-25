@@ -425,7 +425,7 @@
       "outputPath": "/Users/mrodas/Projects/WarCardGame/WarCardGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mrodas/.config/NuGet/NuGet.Config"
+        "/Users/mrodas/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
