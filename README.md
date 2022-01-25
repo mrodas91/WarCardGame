@@ -11,8 +11,8 @@ On client machine:
 ### Clone Repositories
 1. Open your terminal and navigate to the folder you want to work
 2. Clone both repositories by running below commands:
-   - WarCardGame: `Git clone`
-   - WardGameAPI: `Git clone`
+   - WarCardGame: `git clone git@github.com:mrodas91/WarCardGame.git`
+   - WardGameAPI: `git clone git@github.com:mrodas91/WarGameAPI.git`
 
 ### Create a MS SQL Server Container in Docker
 A docker container is needed in order to storage the service db.
