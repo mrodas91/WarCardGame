@@ -51,3 +51,8 @@ You can create as many player you want (2 Player are required).
 
 *Notes: There are other edpoints you can use inside the documentation that works with the playerId and matchId*
 
+## Docker images
+Here you will find the docker images from both projects published:
+- https://hub.docker.com/search?q=mrodas%20%2F%20war-game-api&type=image
+
+I'm starting with this tecnology. I spent a lot of time traying to orchestrate them but I couldn't connect the API Service to the DB. I got many error realated to 'SQL server service was not found'. So I'm not sure if the images really work but I really enjoyed spending some time using Docker.
